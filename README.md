@@ -52,7 +52,6 @@ A movie discovery platform with **search, reviews, favorites, and groups** (Reac
 ---
 
 ## 📫 How to Reach Me
-- 📧 Email: **your.email@example.com**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/nipunikodikara)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/nipuni-kodikara-3a50532b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
 - 🐙 [GitHub](https://github.com/t3komu00)  
 
