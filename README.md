@@ -40,10 +40,14 @@ A simple **Weather App** built with React and API integration.
 📌 [Todo App](https://github.com/t3komu00/Todo-App)  
 Task management app using React & Node.js.  
 
+📌 [Movie App](https://github.com/t3komu00/Movie-App)  
+A movie discovery platform with **search, reviews, favorites, and groups** (React + PostgreSQL).  
+
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=t3komu00&show_icons=true&theme=default)  
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=t3komu00&show_icons=true&theme=default)
+
 
 ---
 
